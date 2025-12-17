@@ -111,7 +111,7 @@ This project is open-source and free to use for educational purposes.
 ## 🖼️ Screenshots
 
 ### 🔹 Code Review Interface
-![Gradio UI](Screenshots/Screenshot (125).png)
+![Gradio UI](https://github.com/jainasthaaa/Smart-Code-Review-Bug-Explanation-Tool/blob/main/Screenshots/Screenshot%20(125).png)
 
 ### 🔹 Bug Explanation Output
-![Explanation Output](Screenshots/Screenshot (126).png)
+![Explanation Output](https://github.com/jainasthaaa/Smart-Code-Review-Bug-Explanation-Tool/blob/main/Screenshots/Screenshot%20(126).png)
